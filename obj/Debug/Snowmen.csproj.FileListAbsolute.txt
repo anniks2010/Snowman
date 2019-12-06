@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\Snowmen\bin\Debug\Snowmen.exe.config
+C:\Users\opilane\projects\Snowmen\bin\Debug\Snowmen.exe
+C:\Users\opilane\projects\Snowmen\bin\Debug\Snowmen.pdb
+C:\Users\opilane\projects\Snowmen\obj\Debug\Snowmen.csprojAssemblyReference.cache
+C:\Users\opilane\projects\Snowmen\obj\Debug\Snowmen.exe
+C:\Users\opilane\projects\Snowmen\obj\Debug\Snowmen.pdb
